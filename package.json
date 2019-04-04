@@ -1,0 +1,33 @@
+{
+  "name": "mono-state",
+  "version": "1.0.0",
+  "description": "creator of Redux reducer and action in same place",
+  "main": "index.js",
+  "dependencies": {
+    "redux-actions": "^2.6.5",
+    "typescript": "^3.4.1",
+    "yarn": "^1.15.2"
+  },
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetor/mono-state.git"
+  },
+  "keywords": [
+    "Redux",
+    "redux-actions"
+  ],
+  "author": "tetor <takashi.etou@garage-ventures.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetor/mono-state/issues"
+  },
+  "homepage": "https://github.com/tetor/mono-state#readme"
+}
